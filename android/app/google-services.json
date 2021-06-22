@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499174984786",
+    "project_id": "clinapptest-e3f29",
+    "storage_bucket": "clinapptest-e3f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499174984786:android:83f71b21e2f5792e61638b",
+        "android_client_info": {
+          "package_name": "com.aprendendoreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499174984786-1kllj5e177ob162c55fmcb1eamhudcql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6HFuuF-rc3CFHyolVhZtifsnDL3DljE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499174984786-1kllj5e177ob162c55fmcb1eamhudcql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
